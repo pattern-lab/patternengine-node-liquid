@@ -1,3 +1,5 @@
+[📢 Archived in favor of https://github.com/pattern-lab/patternlab-node](https://github.com/pattern-lab/patternlab-node)
+
 # The Liquid engine for Pattern Lab / Node
 
 Based on the the stellar initial work found in https://github.com/cameronroe/patternengine-node-liquid
